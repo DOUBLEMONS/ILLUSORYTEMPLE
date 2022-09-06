@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f06983f2330426847a9751fa85e5a45a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dumble: {fileID: 5297819363056478400, guid: a9e6b8bc5801deb4c84e123ccc64fda8, type: 3}
+  - Stone: {fileID: 3820110487915272934, guid: 3cf4d0aa963a18242b38cdaa09983ad4, type: 3}
+  - Wood: {fileID: 4468406922966343966, guid: 2e0bdcd5ef4e05245b318eb2efab5c33, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
